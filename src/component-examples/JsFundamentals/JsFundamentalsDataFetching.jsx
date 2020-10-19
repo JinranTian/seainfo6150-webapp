@@ -29,7 +29,7 @@ const JsFundamentalsDataFetching = () => {
       </ul>
     );
   } else {
-    displayContent = <div>You have no data!</div>;
+    displayContent = <div>You have no data!!!</div>;
   }
 
   return (
